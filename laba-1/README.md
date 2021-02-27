@@ -1,2 +1,1 @@
-readme file laba-1
-readme file for laba 1
+readme file laba-readme file for laba 1
